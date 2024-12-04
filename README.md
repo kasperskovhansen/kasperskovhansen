@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kasperskovhansen
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Vue and JavaScript
+- 🌱 I’m currently studying Computer Science at Aarhus University
 - 💞️ I’m looking to collaborate on small projects
 - 📫 You can reach me by email: kasperskov01@gmail.com
 
